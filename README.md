@@ -1,37 +1,25 @@
-# ☁️ BlogDePruebaAWS
+# README
 
-Aplicación **Ruby on Rails** con enfoque de práctica en despliegue y servicios AWS, complementada con documentación Markdown sobre IAM, S3, EC2 y RDS.
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-![Rails](https://img.shields.io/badge/Rails-app-CC0000?logo=rubyonrails) ![Docker](https://img.shields.io/badge/Docker-ready-blue?logo=docker) ![AWS](https://img.shields.io/badge/AWS-learning-FF9900?logo=amazonaws)
+Things you may want to cover:
 
----
+* Ruby version
 
-## 📌 Objetivo
+* System dependencies
 
-Construir un blog de prueba mientras se documenta el uso de servicios AWS y el despliegue de una aplicación moderna.
+* Configuration
 
-## 🧩 Qué incluye
+* Database creation
 
-- Aplicación Rails con controladores, vistas y configuración base.
-- Dockerfile y archivos de despliegue.
-- Workflow CI en GitHub Actions.
-- Documentación temática `01-iam.md` a `06-ec2.md`.
+* Database initialization
 
-## ▶️ Cómo empezar
+* How to run the test suite
 
-```bash
-git clone git@github.com:Carl0gonzalez/BlogDePruebaAWS.git
-cd BlogDePruebaAWS
-bundle install
-bin/rails db:setup
-bin/rails server
-```
+* Services (job queues, cache servers, search engines, etc.)
 
-## 💡 Valor del proyecto
+* Deployment instructions
 
-Combina desarrollo web, documentación técnica y aprendizaje de infraestructura cloud en un mismo repositorio.
-
-## 👤 Autor
-
-**Carlo González**
-
+* ...
+# BlogDePruebaAWS
